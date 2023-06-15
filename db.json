@@ -22,7 +22,8 @@
           "name": "Chloe",
           "age": 7
         }
-      ]
+      ],
+      "baggage": "no-baggage"
     },
     {
       "id": 4,
