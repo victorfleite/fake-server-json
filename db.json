@@ -6,10 +6,7 @@
       "checkedIn": true,
       "checkInDate": 1490742000000,
       "children": null,
-      "baggage": {
-          "key": "hand-only",
-          "value" : "Hand and Hold Baggage"
-      }
+      "baggage": "hand-only"
     },
     {
       "id": 2,
