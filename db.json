@@ -35,7 +35,8 @@
           "name": "Jessica",
           "age": 1
         }
-      ]
+      ],
+      "baggage": "no-baggage"
     },
     {
       "id": 5,
