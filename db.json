@@ -6,9 +6,7 @@
       "checkedIn": true,
       "checkInDate": 1490742000000,
       "children": null,
-      "baggage": {
-        "key":"no-baggage"
-      }
+      "baggage": "no-baggage"
     },
     {
       "id": 2,
@@ -25,7 +23,7 @@
           "age": 7
         }
       ],
-      "baggage": "no-baggage"
+      "baggage": "only-hand"
     },
     {
       "id": 4,
